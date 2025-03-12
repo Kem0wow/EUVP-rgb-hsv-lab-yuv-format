@@ -1,2 +1,2 @@
 # EUVP-rgb-hsv-lab-yuv-format
-Paired EUVP dataset with diffrent formats for photos
+Paired EUVP dataset images converted into HSV, RGB, YUV, and LAB formats.
